@@ -1,6 +1,6 @@
 # How to git
 
-## What is git and why we need it?
+## What is git and why do we need it?
 git是一个分布式版本控制软件，最初目的是为更好地管理Linux内核开发而设计，但后来git内核已经成熟到可以独立地用作版本控制。[Wikipedia](https://zh.wikipedia.org/wiki/Git)
 我们为什么需要版本控制？组织和工程化管理需要版本控制，而最重要的一点是版本控制是我们代码不断演进中的后悔药和任意门，难能可贵。
 
